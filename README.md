@@ -1,4 +1,4 @@
-### **Tutorial: Using and Interpreting the MySQL Index Visualization Tool**
+### **MySQL Index Visualization Tool**
 
 #### **1. Setting Up the Environment**
 
